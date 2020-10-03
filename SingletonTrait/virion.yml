@@ -1,8 +1,0 @@
----
-name: SingletonTrait
-antigen: blugin\traits\singleton
-version: 1.0.0
-api: 3.0.0
-authors: ['Blugin-team', 'PresentKim']
-description: "Trait for singleton class"
-...
