@@ -4,3 +4,27 @@
 [submodule "libtranslator"]
 	path = libtranslator
 	url = https://github.com/Blugin/libtranslator
+[submodule "BannerFactory"]
+	path = BannerFactory
+	url = https://github.com/Blugin/BannerFactory
+[submodule "InvMenuPlus"]
+	path = InvMenuPlus
+	url = https://github.com/Blugin/InvMenuPlus
+[submodule "LocaleConverter"]
+	path = LocaleConverter
+	url = https://github.com/Blugin/LocaleConverter
+[submodule "stringutils"]
+	path = stringutils
+	url = https://github.com/Blugin/stringutils
+[submodule "SingletonTrait"]
+	path = SingletonTrait
+	url = https://github.com/Blugin/SingletonTrait
+[submodule "SelfFactoryTrait"]
+	path = SelfFactoryTrait
+	url = https://github.com/Blugin/SelfFactoryTrait
+[submodule "MultilingualConfigTrait"]
+	path = MultilingualConfigTrait
+	url = https://github.com/Blugin/MultilingualConfigTrait
+[submodule "arrayutils"]
+	path = arrayutils
+	url = https://github.com/Blugin/arrayutils
