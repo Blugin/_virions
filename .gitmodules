@@ -16,9 +16,6 @@
 [submodule "stringutils"]
 	path = stringutils
 	url = https://github.com/Blugin/stringutils
-[submodule "SingletonTrait"]
-	path = SingletonTrait
-	url = https://github.com/Blugin/SingletonTrait
 [submodule "SelfFactoryTrait"]
 	path = SelfFactoryTrait
 	url = https://github.com/Blugin/SelfFactoryTrait
